@@ -20,5 +20,7 @@ YouTube: [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&lo
 > Copyright (c) 2022 ***[mateuszk0pa](https://github.com/mateuszk0pa)***.
 >
 > Released under [MIT](https://choosealicense.com/licenses/mit/) License.
->
-> <> with ❤❤❤ for [![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+> 
+> <> with ❤❤❤ for 
+> 
+> [![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
