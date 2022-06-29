@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-    <img src="https://r67.cooltext.com/rendered/cooltext414271991971702.png">
+    <img src="https://user-images.githubusercontent.com/91031647/176472384-1a6bfd11-195d-4681-bcde-c6030b096fb6.png">
 </div>
 
 ---
