@@ -11,6 +11,8 @@
     </a>
 </div>
 
+---
+
 ### OS on which you can run the program:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
