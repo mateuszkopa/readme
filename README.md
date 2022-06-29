@@ -1,20 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91031647/176461675-3e76ef85-69c2-49a4-a798-0440bbe9f02b.png" />
-</p>
-
-
 <div align="center">
-    <img src="https://img.shields.io/github/release/mateuszk0pa/readme.svg">
-    <img src="https://img.shields.io/github/downloads/mateuszk0pa/readme/total.svg">
-    <img src="https://img.shields.io/github/forks/mateuszk0pa/readme.svg">
-    <img src="https://img.shields.io/github/stars/mateuszk0pa/readme.svg">
-    <img src="https://img.shields.io/github/watchers/mateuszk0pa/readme.svg">
+    <br>
+    <img src="https://user-images.githubusercontent.com/91031647/176461675-3e76ef85-69c2-49a4-a798-0440bbe9f02b.png">
+    <br>
+    <a href="https://github.com/mateuszk0pa">
+        <img src="https://img.shields.io/badge/README%20by:-mateuszk0pa-success?style=for-the-badge&logo=github"> <!--If you use this template I will be grateful for add this badge-->
+    </a>
 </div>
-
-## Description 
-
-### If you use this template I will be grateful for add this badge
-[![thanks](https://img.shields.io/badge/README%20by:-mateuszk0pa-success)](https://github.com/mateuszk0pa)
 
 ### OS on which you can run the program:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -72,6 +63,9 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## Description
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ## Code snippets
 <!-- Sites to make code snippets:
