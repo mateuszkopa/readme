@@ -1,7 +1,9 @@
-###
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91031647/176461675-3e76ef85-69c2-49a4-a798-0440bbe9f02b.png" />
+</p>
+
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/91031647/176461675-3e76ef85-69c2-49a4-a798-0440bbe9f02b.png">
     <img src="https://img.shields.io/github/release/mateuszk0pa/readme.svg">
     <img src="https://img.shields.io/github/downloads/mateuszk0pa/readme/total.svg">
     <img src="https://img.shields.io/github/forks/mateuszk0pa/readme.svg">
