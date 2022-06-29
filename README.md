@@ -8,6 +8,10 @@
 <div align="center">
     <a href="https://github.com/mateuszk0pa">
         <img src="https://img.shields.io/badge/README%20by:-mateuszk0pa-success?style=for-the-badge&logo=github"> <!--If you use this template I will be grateful for add this badge-->
+        <br>
+        <img src="https://img.shields.io/github/downloads/mateuszk0pa/readme/total?logo=github&style=for-the-badge">
+        <img src="https://img.shields.io/github/forks/mateuszk0pa/readme?logo=github&style=for-the-badge">
+        <img src="https://img.shields.io/github/watchers/mateuszk0pa/readme?logo=github&style=for-the-badge">
     </a>
 </div>
 
