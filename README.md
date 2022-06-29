@@ -12,6 +12,7 @@
         <img src="https://img.shields.io/github/downloads/mateuszk0pa/readme/total?logo=github&style=for-the-badge">
         <img src="https://img.shields.io/github/forks/mateuszk0pa/readme?logo=github&style=for-the-badge">
         <img src="https://img.shields.io/github/watchers/mateuszk0pa/readme?logo=github&style=for-the-badge">
+        <img src="https://img.shields.io/github/license/mateuszk0pa/readme?logo=github&style=for-the-badge">
     </a>
 </div>
 
