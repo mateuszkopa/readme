@@ -1,7 +1,11 @@
 <div align="center">
     <br>
     <img src="https://user-images.githubusercontent.com/91031647/176461675-3e76ef85-69c2-49a4-a798-0440bbe9f02b.png">
-    <br>
+</div>
+
+---
+
+<div align="center">
     <a href="https://github.com/mateuszk0pa">
         <img src="https://img.shields.io/badge/README%20by:-mateuszk0pa-success?style=for-the-badge&logo=github"> <!--If you use this template I will be grateful for add this badge-->
     </a>
